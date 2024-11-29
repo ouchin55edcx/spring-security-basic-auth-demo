@@ -1,3 +1,4 @@
+![image.svg](image.svg)
 # 🔐 Basic Authentication with Spring Boot
 
 A simple authentication system that provides user registration and login functionality using Spring Boot and Spring Security.
