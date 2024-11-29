@@ -1,0 +1,18 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="800" height="200" fill="#f8f9fa"/>
+
+    <!-- Spring Boot Logo Simplified -->
+    <circle cx="150" cy="100" r="60" fill="#6db33f"/>
+    <circle cx="150" cy="100" r="50" fill="white"/>
+    <circle cx="150" cy="100" r="40" fill="#6db33f"/>
+
+    <!-- Security Shield -->
+    <path d="M650 40 L710 40 L710 120 L680 140 L650 120 Z" fill="#234236" stroke="#6db33f" stroke-width="3"/>
+    <circle cx="680" cy="80" r="15" fill="#6db33f"/>
+    <rect x="675" y="80" width="10" height="30" fill="#6db33f"/>
+
+    <!-- Text -->
+    <text x="400" y="110" font-family="Arial" font-size="40" text-anchor="middle" fill="#234236">Spring Boot Security</text>
+    <text x="400" y="140" font-family="Arial" font-size="20" text-anchor="middle" fill="#6db33f">Basic Authentication</text>
+</svg>
